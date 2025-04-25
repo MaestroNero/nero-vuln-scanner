@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/MaestroNero/nero-vuln-scanner?style=social)
+
 # 🛡️ Nero Vuln Scanner
 
 A powerful Linux-based vulnerability scanning tool built using Bash scripting. Designed to automate basic reconnaissance and scanning tasks using tools like `nmap`, `whois`, and `nuclei`.
