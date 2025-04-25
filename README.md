@@ -2,7 +2,7 @@
 
 # 🛡️ Nero Vuln Scanner
 
-![Tool Preview](https://i.ibb.co/tS2ZJLZ/file-000000007f34622f8c147ee0850c5560.png)
+![Tool Preview](https://i.imgur.com/uKaE9C9.png)
 
 A powerful Linux-based vulnerability scanning tool built using Bash scripting. Designed to automate basic reconnaissance and scanning tasks using tools like `nmap`, `whois`, and `nuclei`.
 
