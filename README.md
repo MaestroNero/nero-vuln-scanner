@@ -29,6 +29,7 @@ After installation is complete, run the following command to download the offici
 ```bash
 cd /root
 git clone https://github.com/projectdiscovery/nuclei-templates.git
+mv /root/nuclei-templates/* $HOME/nuclei-templates/
 ```
 
 > ⚠️ Make sure you are running as root when executing the above command, or use `sudo` if necessary.
